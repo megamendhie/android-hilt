@@ -30,7 +30,7 @@ import dagger.hilt.android.EntryPointAccessors
 import dagger.hilt.components.SingletonComponent
 import java.lang.UnsupportedOperationException
 
-/** The authority of this content provider.  */
+/** The name of the database table.  */
 private const val LOGS_TABLE = "logs"
 
 /** The authority of this content provider.  */
